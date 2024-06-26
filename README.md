@@ -20,7 +20,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/DeliciousRecipes.git
+    git clone https://github.com/bfrpaulondev/DeliciousRecipes.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -58,9 +58,3 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/DeliciousRecipes](https://github.com/yourusername/DeliciousRecipes)
